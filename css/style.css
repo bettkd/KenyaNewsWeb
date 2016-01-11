@@ -233,6 +233,10 @@ nav ul li a:hover {
 #page2-1 {
     height: 500px;
     width: 100%;
+    
+}
+@media screen and (min-width: 0px) and (max-width: 740pt) {
+    .mobile-hide{ display: none; }
 }
 #page2-2 {
     background: #7a7367;
@@ -1112,7 +1116,7 @@ nav ul li a:hover {
     #frontArrowDown {
         width: 60px;
         height: 60px;
-        background: url('../img/icn__arrowdown-lightbrown_w.png') top center no-repeat;
+        background: url('../img/icn__arrowdown-lightbrown.png') top center no-repeat;
         background-size: 60px 60px;
         bottom: 5%;
         margin: 0 0 0 -30px;
