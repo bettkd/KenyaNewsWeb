@@ -1112,7 +1112,7 @@ nav ul li a:hover {
     #frontArrowDown {
         width: 60px;
         height: 60px;
-        background: url('../img/icn__arrowdown-lightbrown_w@2x.png') top center no-repeat;
+        background: url('../img/icn__arrowdown-lightbrown_w.png') top center no-repeat;
         background-size: 60px 60px;
         bottom: 5%;
         margin: 0 0 0 -30px;
