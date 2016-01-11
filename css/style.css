@@ -141,7 +141,7 @@ ul, li { margin: 0; padding: 0;}
 
 
 #logo {
-    background: url('../img/logo__bnd@2x.png') top left no-repeat;
+    background: url('../img/logo__bnd.png') top left no-repeat;
     background-size: 365px 87px;
     display: block;
     width: 365px;
@@ -165,7 +165,7 @@ ul, li { margin: 0; padding: 0;}
     width: 85px;
     z-index: 90;
     height: 85px;
-    background: url('../img/icn__arrowdown-lightbrown@2x.png') top center no-repeat;
+    background: url('../img/icn__arrowdown-lightbrown.png') top center no-repeat;
     background-size: 85px 85px;
     position: absolute;
     bottom: 17%;
@@ -261,7 +261,7 @@ nav ul li a:hover {
 .selectedThoughts { font-size: 21px;}
 #comingSoonWhite,
 .comingSoonWhite {
-    background: url('../img/icn__comingsoon-white@2x.png') top left no-repeat;
+    background: url('../img/icn__comingsoon-white.png') top left no-repeat;
     background-size: 180px 55px;
     width: 180px;
     height: 55px;
@@ -348,7 +348,7 @@ nav ul li a:hover {
     margin-bottom: 30px;
 }
 .comingSoonMobile {
-    background: url('../img/icn__comingsoon-white_w@2x.png') top left no-repeat;
+    background: url('../img/icn__comingsoon-white.png') top left no-repeat;
     background-size: 124px 38px;
     width: 124px;
     height: 38px;
@@ -518,7 +518,7 @@ nav ul li a:hover {
     float: left;
     width: 50%;
     height: 100%;
-    background: url('../img/img__sharing@2x.jpg') top left no-repeat;
+    background: url('../img/img__sharing.jpg') top left no-repeat;
     background-size: cover;
 }
 
@@ -999,12 +999,12 @@ nav ul li a:hover {
 }
 
 @media only screen and (min-width: 511px) {
-    #homepage { background: url('../img/hero__frontpage@2x.jpg') top center no-repeat #010101; background-size: 112%; }
+    #homepage { background: url('../img/hero__frontpage.jpg') top center no-repeat #010101; background-size: 112%; }
     #page2-1 {  background: url('../img/shadows__01-top@2x.png') bottom right no-repeat #dbdbd7; background-size: 100% 100%; }
     #page2-shadow { background: url('../img/shadows__01-bottom@2x.png') top right no-repeat; background-size: contain; }
-    #phone1 { background: url('../img/iphone__01-01@2x.png') top left no-repeat;  background-size: 424px 866px; }
-    #phone2 { background: url('../img/iphone__01-02@2x.png') top left no-repeat;  background-size: 418px 713px; }
-    #page2-insp {  background: url('../img/logo__iq-large@2x.png') top left no-repeat;  background-size: 390px 170px; }
+    #phone1 { background: url('../img/iphone__01-01.png') top left no-repeat;  background-size: 424px 866px; }
+    #phone2 { background: url('../img/iphone__01-02.png') top left no-repeat;  background-size: 418px 713px; }
+    #page2-insp {  background: url('../img/logo__iq-large.png') top left no-repeat;  background-size: 390px 170px; }
     #page3 > div#page3-shadow1 { background: url('../img/shadows__02-top@2x.png') top center no-repeat;  background-size: contain; }
     #page3 > #page3-shadow2 { background: url('../img/shadows__02-bottom@2x.png') bottom center no-repeat;  background-size: contain;}
     #page3-q1 { background: url('../img/appscreen__01-01@2x.png') top left no-repeat; background-size: 886px 551px;}
@@ -1094,13 +1094,13 @@ nav ul li a:hover {
     .sepLine { height: 4px;}
 
     #homepage {
-        background: url(../img/hero__frontpage_w@2x.jpg) top center no-repeat;
+        background: url(../img/hero__frontpage.jpg) top center no-repeat;
         background-size: 100%;
     }
     #logo { display: none}
     #logo-mobile {
         display: block;
-        background: url(../img/logo__bnd_w@2x.png) top left no-repeat;
+        background: url(../img/logo__bnd.png) top left no-repeat;
         background-size: 160px 152px;
         width: 160px;
         height: 152px;
