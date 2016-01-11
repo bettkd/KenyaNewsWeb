@@ -1236,7 +1236,7 @@ nav ul li a:hover {
         width: 67%;
         font-size: 12px;
     }
-    #frontArrowDown { display: none; }
+   #frontArrowDown { display: none; }
     .page-mobile-app { left: -30px;}
     .page-mobile-text { margin-right: 10px;}
 }
