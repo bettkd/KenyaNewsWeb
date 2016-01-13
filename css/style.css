@@ -265,7 +265,7 @@ nav ul li a:hover {
 .selectedThoughts { font-size: 21px;}
 #comingSoonWhite,
 .comingSoonWhite {
-    background: url('../img/icn__comingsoon-white.png') top left no-repeat;
+    background: url('../img/itunes.png') top left no-repeat;
     background-size: 180px 55px;
     width: 180px;
     height: 55px;
@@ -352,7 +352,7 @@ nav ul li a:hover {
     margin-bottom: 30px;
 }
 .comingSoonMobile {
-    background: url('../img/icn__comingsoon-white.png') top left no-repeat;
+    background: url('../img/itunes.png') top left no-repeat;
     background-size: 124px 38px;
     width: 124px;
     height: 38px;
